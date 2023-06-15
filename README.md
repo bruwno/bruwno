@@ -41,7 +41,6 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 [![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]() 
 [![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() 
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
-[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 
