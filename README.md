@@ -10,11 +10,11 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 
 ## Skills and Studies
 
-🔧 Programming Languages: C#, Java, JavaScript  
-💻 Web Development: ASP.NET, HTML, CSS  
-📊 Databases: SQL Server, MySQL, PostgreSQL, SQLite  
-🛠️ Tools: Visual Studio and VSCode, Git  
-📚 Frameworks: .NET Core, Spring Boot  
+🔧 **Programming Languages:** C#, Java, JavaScript  
+💻 **Web Development:** ASP.NET, HTML, CSS  
+📊 **Databases:** SQL Server, MySQL, PostgreSQL, SQLite  
+🛠️ **Tools:** Visual Studio and VSCode, Git  
+📚 **Frameworks:** .NET Core, Spring Boot  
 
 #### - Learning priority
 
@@ -41,14 +41,14 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 
 ## Education
 
-🎓 System Analysis and Development Technologist | FIVJ - Vianna Júnior (Graduation: 2023-2025)  
-📚 Online Courses: Alura, Udemy, B7Web  
-📜 IT Technician - Colégio Politécnico Pio XII (2019-2020)
+🎓 **System Analysis and Development Technologist** | FIVJ - Vianna Júnior (Graduation: 2023-2025)  
+📚 **Online Courses:** Alura, Udemy, B7Web  
+📜 **IT Technician** - Colégio Politécnico Pio XII (2019-2020)
 
 ## Contact Me
 
-📧 Email: william.silva@viannasempre.com.br   
-💼 LinkedIn: [linkedin.com/in/williamsilvajf](https://www.linkedin.com/in/williamsilvajf/)  
+📧 **Email:** william.silva@viannasempre.com.br   
+💼 **LinkedIn:** [linkedin.com/in/williamsilvajf](https://www.linkedin.com/in/williamsilvajf/)  
 
 Feel free to reach out if you have any questions or collaboration opportunities! 😄
 
