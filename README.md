@@ -8,11 +8,6 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 - 🌱 I’m currently studying to become a Full Stack developer with a focus on backend development.  
 - 🔭 I’m currently working on improving my skills in .NET development.  
 
-## Stats
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=unclWill&show_icons=true&theme=radical)
-
-
 ## Skills and Studies
 
 🔧 Programming Languages: C#, Java, JavaScript  
