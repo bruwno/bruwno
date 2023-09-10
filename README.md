@@ -41,7 +41,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 
 ## Education
 
-🎓 **System Analysis and Development Technologist** | FIVJ - Vianna Júnior (Graduation: 2023-2025)  
+🎓 **System Analysis and Development Technologist** | FIVJ - Instituto Vianna Júnior (Graduation: 2023-2025)  
 📚 **Online Courses:** Alura, Udemy, B7Web  
 📜 **IT Technician** - Colégio Politécnico Pio XII (2019-2020)
 
