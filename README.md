@@ -11,7 +11,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 ## Skills and Studies
 
 🔧 **Programming Languages:** C#, Java, JavaScript  
-💻 **Web Development:** ASP.NET, HTML, CSS  
+💻 **Web Development:** HTML, CSS, JS  
 📊 **Databases:** SQL Server, MySQL, PostgreSQL, SQLite  
 🛠️ **Tools:** Visual Studio, VSCode, intelliJ IDEA, Git  
 📚 **Frameworks:** .NET Core, Spring Boot  
