@@ -48,7 +48,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 ## Contact Me
 
 📧 **Email:** william.silva@viannasempre.com.br   
-💼 **LinkedIn:** [linkedin.com/in/williamsilvajf](https://www.linkedin.com/in/williambruno-dev/)  
+💼 **LinkedIn:** [linkedin.com/in/williambruno-dev](https://www.linkedin.com/in/williambruno-dev/)  
 
 Feel free to reach out if you have any questions or collaboration opportunities! 😄
 
