@@ -12,7 +12,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 
 🔧 **Programming Languages:** C#, Java, JavaScript, Dart  
 💻 **Web Development:** HTML, CSS, JS  
-📊 **Databases:** SQL Server, MySQL, PostgreSQL, SQLite  
+📊 **Databases:** PostgreSQL, SQL Server, SQLite, MySQL  
 🛠️ **Tools:** Visual Studio, VS Code, intelliJ IDEA, Git  
 📚 **Frameworks:** .NET Core, Angular, Flutter  
 
