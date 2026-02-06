@@ -14,7 +14,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 💻 **Web Development:** HTML, CSS, JS  
 📊 **Databases:** PostgreSQL, SQL Server, SQLite, MySQL  
 🛠️ **Tools:** Visual Studio, VS Code, intelliJ IDEA, Git  
-📚 **Frameworks:** .NET Core, Angular, React Native
+📚 **Frameworks:** .NET Core, Next.js, React Native/Expo
 
 #### - Learning priority
 
