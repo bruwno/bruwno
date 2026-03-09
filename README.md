@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am William Silva, a passionate technology enthusiast, developer, and student specializing in the .NET platform.  
+I am William Bruno, a passionate technology enthusiast, developer, and student, currently specializing in Golang. 
 💻 I enjoy exploring the latest advancements in software development and leveraging them to create innovative solutions. I'm particularly excited about the advancements in Artificial Intelligence (AI) and constantly strive to expand my knowledge in this area. 🤖
 
 - 🌱 I’m currently studying to become a Full Stack developer with a focus on backend development.  
@@ -10,7 +10,7 @@ I am William Silva, a passionate technology enthusiast, developer, and student s
 
 ## Skills and Studies
 
-🔧 **Programming Languages:** C#, Java, JavaScript, TypeScript  
+🔧 **Programming Languages:** C#, Java, Go, JavaScript, TypeScript  
 💻 **Web Development:** HTML, CSS, JS  
 📊 **Databases:** PostgreSQL, SQL Server, SQLite, MySQL  
 🛠️ **Tools:** Visual Studio, VS Code, intelliJ IDEA, Git  
