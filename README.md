@@ -2,8 +2,8 @@
 
 ## About Me
 
-I am William Bruno, a passionate technology enthusiast, developer and student, currently specializing in Golang. 
-💻 I enjoy exploring the latest advancements in software development and leveraging them to create innovative solutions. I'm particularly excited about the advancements in Artificial Intelligence (AI) and constantly strive to expand my knowledge in this area. 🤖
+I am William Bruno, a passionate technology enthusiast, developer and student, currently specializing in Golang.  
+I enjoy exploring the latest advancements in software development and leveraging them to create innovative solutions. I'm particularly excited about the advancements in Artificial Intelligence (AI) and constantly strive to expand my knowledge in this area. 🤖
 
 - 🌱 I’m currently studying to become a Full Stack developer with a focus on backend development.  
 - 🔭 I’m currently working on improving my skills in .NET platform.  
