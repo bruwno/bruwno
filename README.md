@@ -10,18 +10,18 @@ I enjoy exploring the latest advancements in software development and leveraging
 
 ## Skills and Studies
 
-🔧 **Programming Languages:** Golang, C#, Java, TypeScript  
+🔧 **Programming Languages:** C#, Java, TypeScript, Golang  
 💻 **Web Development:** HTML, CSS, JS  
 📊 **Databases:** PostgreSQL, SQL Server, SQLite, MySQL  
 🛠️ **Tools:** Visual Studio, VS Code, intelliJ IDEA, Git  
-📚 **Frameworks:** .NET Core, Next.js, React Native/Expo
+📚 **Frameworks:** .NET Core, Next.js, React Native/Expo  
 
 #### - Learning priority
 
-[![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)]() 
-[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]() 
 [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]() 
 [![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]() 
+[![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)]() 
+[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]() 
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
