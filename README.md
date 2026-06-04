@@ -27,6 +27,7 @@ I enjoy exploring the latest advancements in software development and leveraging
 
 #### - Interests
 
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]() 
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]() 
 [![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]() 
