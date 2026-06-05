@@ -14,7 +14,7 @@ I enjoy exploring the latest advancements in software development and leveraging
 💻 **Web Development:** HTML, CSS, JS  
 📊 **Databases:** PostgreSQL, SQL Server, SQLite, MySQL  
 🛠️ **Tools:** Visual Studio, VS Code, intelliJ IDEA, Git  
-📚 **Frameworks:** .NET Core, Next.js, React Native/Expo  
+📚 **Frameworks:** .NET Core, Angular, Next.js, React Native/Expo  
 
 #### - Learning priority
 
